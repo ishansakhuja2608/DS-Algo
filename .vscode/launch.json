@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch DistinctSubsequence",
+      "request": "launch",
+      "mainClass": "DP.DistinctSubsequence",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
       "name": "Launch Ifanagrams",
       "request": "launch",
       "mainClass": "Ifanagrams",
