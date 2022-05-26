@@ -1,0 +1,490 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Ifanagrams",
+      "request": "launch",
+      "mainClass": "Ifanagrams",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch TrainingZeros",
+      "request": "launch",
+      "mainClass": "Array.TrainingZeros",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch RemoveDuplicates",
+      "request": "launch",
+      "mainClass": "Array.RemoveDuplicates",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch Practice",
+      "request": "launch",
+      "mainClass": "Practice",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch ZeroSumSubarray",
+      "request": "launch",
+      "mainClass": "ZeroSumSubarray",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch PartyHalls",
+      "request": "launch",
+      "mainClass": "PartyHalls",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch CeilInBST",
+      "request": "launch",
+      "mainClass": "BST.CeilInBST",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch FloorInBST",
+      "request": "launch",
+      "mainClass": "BST.FloorInBST",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch Deletion",
+      "request": "launch",
+      "mainClass": "BST.Deletion",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch IterativeInsert",
+      "request": "launch",
+      "mainClass": "BST.IterativeInsert",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch SearchIterative",
+      "request": "launch",
+      "mainClass": "BST.SearchIterative",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch InsertInBST",
+      "request": "launch",
+      "mainClass": "BST.InsertInBST",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch Search",
+      "request": "launch",
+      "mainClass": "BST.Search",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch LC",
+      "request": "launch",
+      "mainClass": "LC",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch BSTHello",
+      "request": "launch",
+      "mainClass": "BST.BSTHello",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch LongestSubarrayGivenSum",
+      "request": "launch",
+      "mainClass": "Hashing.LongestSubarrayGivenSum",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch hello",
+      "request": "launch",
+      "mainClass": "BST.hello",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch HouseRobbersDP",
+      "request": "launch",
+      "mainClass": "DP.HouseRobbersDP",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch HouseRobbers",
+      "request": "launch",
+      "mainClass": "HouseRobbers",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch WordDistance",
+      "request": "launch",
+      "mainClass": "WordDistance",
+      "projectName": "DSA_f536c237"
+    },
+    {
+      "type": "java",
+      "name": "Launch BinaryRecursive",
+      "request": "launch",
+      "mainClass": "BinaryRecursive",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch BinarySearch",
+      "request": "launch",
+      "mainClass": "BinarySearch",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Testt",
+      "request": "launch",
+      "mainClass": "Testt",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch NextGreaterEff",
+      "request": "launch",
+      "mainClass": "NextGreaterEff",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch NextGreater",
+      "request": "launch",
+      "mainClass": "NextGreater",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch PreviousGreatestEff",
+      "request": "launch",
+      "mainClass": "PreviousGreatestEff",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch PreviousGreatest",
+      "request": "launch",
+      "mainClass": "PreviousGreatest",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch StockSpan",
+      "request": "launch",
+      "mainClass": "StockSpan",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch BalancedParenthesis",
+      "request": "launch",
+      "mainClass": "BalancedParenthesis",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArrayDequeImpl",
+      "request": "launch",
+      "mainClass": "ArrayDequeImpl",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch LinkedListImpl",
+      "request": "launch",
+      "mainClass": "LinkedListImpl",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArrayImplementation",
+      "request": "launch",
+      "mainClass": "ArrayImplementation",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArrayListImpl",
+      "request": "launch",
+      "mainClass": "ArrayListImpl",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArrayImplementation",
+      "request": "launch",
+      "mainClass": "Stack.ArrayImplementation",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DetectAndRemoveLoop",
+      "request": "launch",
+      "mainClass": "DetectAndRemoveLoop",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch FloydsLoopDetection",
+      "request": "launch",
+      "mainClass": "FloydsLoopDetection",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DetectTheLoop",
+      "request": "launch",
+      "mainClass": "DetectTheLoop",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DetectLoop",
+      "request": "launch",
+      "mainClass": "DetectLoop",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch RemoveDuplicate",
+      "request": "launch",
+      "mainClass": "RemoveDuplicate",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch RecursiveReverse",
+      "request": "launch",
+      "mainClass": "RecursiveReverse",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReverseEfficient",
+      "request": "launch",
+      "mainClass": "ReverseEfficient",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReverseLinkedList",
+      "request": "launch",
+      "mainClass": "ReverseLinkedList",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch NthFromend",
+      "request": "launch",
+      "mainClass": "NthFromend",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch NthFromEnd",
+      "request": "launch",
+      "mainClass": "NthFromEnd",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch MiddleOfLinkedList",
+      "request": "launch",
+      "mainClass": "MiddleOfLinkedList",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch SortedInsert",
+      "request": "launch",
+      "mainClass": "SortedInsert",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Insertion",
+      "request": "launch",
+      "mainClass": "CircularLinkedList.Doublyy.Insertion",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DeleteLast",
+      "request": "launch",
+      "mainClass": "CircularLinkedList.DeleteLast",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DeleteHeadEff",
+      "request": "launch",
+      "mainClass": "CircularLinkedList.DeleteHeadEff",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DeleteHead",
+      "request": "launch",
+      "mainClass": "CircularLinkedList.DeleteHead",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch InsertEnd",
+      "request": "launch",
+      "mainClass": "CircularLinkedList.InsertEnd",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Insertion",
+      "request": "launch",
+      "mainClass": "CircularLinkedList.Insertion",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Traversal",
+      "request": "launch",
+      "mainClass": "CircularLinkedList.Traversal",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DeleteLast",
+      "request": "launch",
+      "mainClass": "DoublyLinkedList.DeleteLast",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DeleteHead",
+      "request": "launch",
+      "mainClass": "DoublyLinkedList.DeleteHead",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch EndInsertion",
+      "request": "launch",
+      "mainClass": "DoublyLinkedList.EndInsertion",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Insertion",
+      "request": "launch",
+      "mainClass": "DoublyLinkedList.Insertion",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Impl",
+      "request": "launch",
+      "mainClass": "DoublyLinkedList.Impl",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DeleteFromLast",
+      "request": "launch",
+      "mainClass": "DeleteFromLast",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DeleteFronLast",
+      "request": "launch",
+      "mainClass": "DeleteFronLast",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch deleteFirstNode",
+      "request": "launch",
+      "mainClass": "deleteFirstNode",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch AtEnd",
+      "request": "launch",
+      "mainClass": "AtEnd",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch insertAtEnd",
+      "request": "launch",
+      "mainClass": "insertAtEnd",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch InsertAtBegin",
+      "request": "launch",
+      "mainClass": "InsertAtBegin",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch recursive_linked",
+      "request": "launch",
+      "mainClass": "recursive_linked",
+      "projectName": "Java_b1a47a3d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch linked",
+      "request": "launch",
+      "mainClass": "linked",
+      "projectName": "Java_b1a47a3d"
+    }
+  ]
+}
